@@ -1,4 +1,6 @@
-# Brotli extension for the HTML Webpack Plugin
+# ~~Brotli extension for the HTML Webpack Plugin~~
+
+**Deprecated: This library has been deprecated. Please check [html-webpack-change-assets-extension-plugin](https://github.com/nerdmax/html-webpack-change-assets-extension-plugin) as an alternative**
 
 [![NPM Version][npm-image]][npm-url]
 [![License Stats][npm-license]][npm-url]
@@ -13,7 +15,7 @@
 
 [![nodei.co][npm-io]][npm-url]
 
-- [Brotli extension for the HTML Webpack Plugin](#brotli-extension-for-the-html-webpack-plugin)
+- [~~Brotli extension for the HTML Webpack Plugin~~](#brotli-extension-for-the-html-webpack-plugin)
   - [Installation](#installation)
   - [Basic Usage](#basic-usage)
 
