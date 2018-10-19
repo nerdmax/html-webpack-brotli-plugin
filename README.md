@@ -1,5 +1,7 @@
 # ~~Brotli extension for the HTML Webpack Plugin~~
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nerdmax/html-webpack-brotli-plugin.svg)](https://greenkeeper.io/)
+
 **Deprecated: This library has been deprecated. Please check [html-webpack-change-assets-extension-plugin](https://github.com/nerdmax/html-webpack-change-assets-extension-plugin) as an alternative**
 
 [![NPM Version][npm-image]][npm-url]
